@@ -9,8 +9,8 @@ return {
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.html-css" },
-  { import = "astrocommunity.pack.cpp" },
   { import = "astrocommunity.pack.go" },
+  { import = "astrocommunity.pack.rust" },
   -- colour schemes
   { import = "astrocommunity.colorscheme.rose-pine" },
   -- import/override with your plugins folder
